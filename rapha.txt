@@ -7,3 +7,4 @@ merge
 branch
 merge 2
 teste https
+teste ssh
